@@ -18,4 +18,4 @@ To analyze employee data and attrition trends, enabling HR teams to identify pat
 
 - How does attrition differ between male and female employees?
 
-- Dashboard Interaction <a href="https://github.com/saiprakash364/HR-Analytics-Report/blob/main/WhatsApp%20Image%202025-08-09%20at%2023.09.17_1798f2a1">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/saiprakash364/HR-Analytics-Report/blob/main/WhatsApp%20Image%202025-08-09%20at%2023.09.17_">View Dashboard</a>
